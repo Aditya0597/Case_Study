@@ -1,0 +1,110 @@
+PRODUCTID,PRODUCTCODE,PRODUCTLINE,MSRP
+1,S18_1749,Vintage Cars,170
+2,S18_2248,Vintage Cars,60
+3,S18_4409,Vintage Cars,92
+4,S24_3969,Vintage Cars,41
+5,S18_2325,Vintage Cars,127
+6,S18_2795,Vintage Cars,168
+7,S24_1937,Vintage Cars,33
+8,S24_2022,Vintage Cars,44
+9,S18_1342,Vintage Cars,102
+10,S18_1367,Vintage Cars,53
+11,S10_1949,Classic Cars,214
+12,S10_4962,Classic Cars,147
+13,S12_1666,Trucks and Buses,136
+14,S18_1097,Trucks and Buses,116
+15,S18_2432,Trucks and Buses,60
+16,S18_2949,Vintage Cars,101
+17,S18_2957,Vintage Cars,62
+18,S18_3136,Vintage Cars,104
+19,S18_3320,Vintage Cars,99
+20,S18_4600,Trucks and Buses,121
+21,S18_4668,Vintage Cars,50
+22,S24_2300,Trucks and Buses,127
+23,S24_4258,Vintage Cars,97
+24,S32_1268,Trucks and Buses,96
+25,S32_3522,Trucks and Buses,64
+26,S700_2824,Classic Cars,101
+27,S12_3148,Classic Cars,151
+28,S12_4473,Trucks and Buses,118
+29,S18_2238,Classic Cars,163
+30,S18_2319,Trucks and Buses,122
+31,S18_3232,Classic Cars,169
+32,S18_4027,Classic Cars,143
+33,S24_1444,Classic Cars,57
+34,S24_2840,Classic Cars,35
+35,S24_4048,Classic Cars,118
+36,S32_2509,Trucks and Buses,54
+37,S32_3207,Trains,62
+38,S50_1392,Trucks and Buses,115
+39,S50_1514,Trains,58
+40,S10_4757,Classic Cars,136
+41,S12_1108,Classic Cars,207
+42,S12_3891,Classic Cars,173
+43,S18_3140,Vintage Cars,136
+44,S18_3259,Trains,100
+45,S18_4522,Vintage Cars,87
+46,S24_2011,Ships,122
+47,S24_3151,Vintage Cars,88
+48,S24_3816,Vintage Cars,83
+49,S700_1138,Ships,66
+50,S700_1938,Ships,86
+51,S700_2610,Ships,72
+52,S700_3505,Ships,100
+53,S700_3962,Ships,99
+54,S72_3212,Ships,54
+55,S18_1662,Planes,157
+56,S18_2581,Planes,84
+57,S18_3029,Ships,86
+58,S18_3856,Vintage Cars,105
+59,S24_1785,Planes,109
+60,S24_2841,Planes,68
+61,S24_3420,Vintage Cars,65
+62,S24_3949,Planes,68
+63,S24_4278,Planes,72
+64,S32_4289,Vintage Cars,68
+65,S50_1341,Vintage Cars,43
+66,S700_1691,Planes,91
+67,S700_2047,Ships,90
+68,S700_2466,Planes,99
+69,S700_2834,Planes,118
+70,S700_3167,Planes,80
+71,S700_4002,Planes,74
+72,S72_1253,Planes,49
+73,S10_1678,Motorcycles,95
+74,S10_2016,Motorcycles,118
+75,S10_4698,Motorcycles,193
+76,S12_2823,Motorcycles,150
+77,S18_2625,Motorcycles,60
+78,S24_1578,Motorcycles,112
+79,S24_2000,Motorcycles,76
+80,S32_1374,Motorcycles,99
+81,S12_1099,Classic Cars,194
+82,S12_3380,Classic Cars,117
+83,S12_3990,Classic Cars,79
+84,S12_4675,Classic Cars,115
+85,S18_1889,Classic Cars,77
+86,S18_3278,Classic Cars,80
+87,S18_3482,Classic Cars,146
+88,S18_3782,Motorcycles,62
+89,S18_4721,Classic Cars,148
+90,S24_2360,Motorcycles,69
+91,S24_3371,Classic Cars,61
+92,S24_3856,Classic Cars,140
+93,S24_4620,Classic Cars,80
+94,S32_2206,Motorcycles,40
+95,S32_4485,Motorcycles,102
+96,S50_4713,Motorcycles,81
+97,S18_1129,Classic Cars,141
+98,S18_1984,Classic Cars,142
+99,S18_2870,Classic Cars,132
+100,S18_3685,Classic Cars,141
+101,S24_2972,Classic Cars,37
+102,S18_1589,Classic Cars,124
+103,S18_4933,Classic Cars,71
+104,S24_1046,Classic Cars,73
+105,S24_1628,Classic Cars,50
+106,S24_2766,Classic Cars,90
+107,S24_2887,Classic Cars,117
+108,S24_3191,Classic Cars,85
+109,S24_3432,Classic Cars,107

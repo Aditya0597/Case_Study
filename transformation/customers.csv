@@ -1,0 +1,94 @@
+,CUSTOMERID,CUSTOMERNAME,CONTACTLASTNAME,CONTACTFIRSTNAME,PHONE,LOCATIONID
+0,62,Online Diecast Creations Co.,Young,Valarie,6035558647,1
+1,14,"Blauer See Auto, Co.",Keitel,Roland,+49 69 66 90 2555,1
+2,90,Vitachrome Inc.,Frick,Michael,2125551500,1
+3,12,Baane Mini Imports,Bergulfsen,Jonas,07-98 9555,1
+4,34,Euro Shopping Channel,Freyre,Diego,(91) 555 94 44,2
+5,28,Danish Wholesale Imports,Petersen,Jytte,31 12 3555,2
+6,69,Rovelli Gifts,Rovelli,Giovanni,035-640555,2
+7,47,Land of Toys Inc.,Yu,Kwai,2125557818,2
+8,26,Cruz & Sons Co.,Cruz,Arnold,+63 2 555 3587,3
+9,59,Motor Mint Distributors Inc.,Hernandez,Rosa,2155559857,8
+10,11,"AV Stores, Co.",Ashworth,Victoria,(171) 555-1555,16
+11,58,Mini Wheels Co.,Murphy,Julie,6505555787,27
+12,91,"Volvo Model Replicas, Co",Berglund,Christina,0921-12 3555,81
+13,57,Mini Gifts Distributors Ltd.,Nelson,Valarie,4155551450,3
+14,45,"La Corne D'abondance, Co.",Bertrand,Marie,(1) 42.34.2555,8
+15,20,Classic Legends Inc.,Hernandez,Maria,2125558493,16
+16,71,Royale Belge,Cartrain,Pascale,(071) 23 67 2555,27
+17,32,"Dragon Souveniers, Ltd.",Natividad,Eric,+65 221 7555,81
+18,33,Enaco Distributors,Saavedra,Eduardo,(93) 203 4555,4
+19,72,Salzburg Collectables,Pipps,Georg,6562-9555,4
+20,6,"Australian Collectors, Co.",Ferguson,Peter,03 9520 4555,4
+21,68,Reims Collectables,Henriot,Paul,26.47.1555,4
+22,49,Marseille Mini Autos,Lebihan,Laurence,91.24.4555,4
+23,4,Atelier graphique,Schmitt,Carine,40.32.2555,4
+24,76,Signal Gift Stores,King,Sue,7025551838,4
+25,25,"Corrida Auto Replicas, Ltd",Sommer,Mart¡n,(91) 555 22 82,4
+26,60,Muscle Machine Inc,Young,Jeff,2125557413,4
+27,78,"Stylish Desk Decors, Co.",Brown,Ann,(171) 555-0297,4
+28,10,Auto-Moto Classics Inc.,Taylor,Leslie,6175558428,4
+29,37,Gift Ideas Corp.,Lewis,Dan,2035554407,4
+30,48,Lyon Souveniers,Da Cunha,Daniel,+33 1 46 62 7555,4
+31,1,Alpha Cognac,Roulet,Annette,61.77.6555,4
+32,77,Souveniers And Things Co.,Huxley,Adrian,+61 2 9495 8555,4
+33,81,Technics Stores Inc.,Hirano,Juri,6505556809,4
+34,79,Suominen Souveniers,Suominen,Kalle,+358 9 8045 555,5
+35,56,Mini Creations Ltd.,Tam,Wing C,5085559555,26
+36,87,Toys4GrownUps.com,Young,Julie,6265557265,54
+37,23,Collectables For Less Inc.,Nelson,Allen,6175558555,5
+38,3,"Anna's Decorations, Ltd",O'Hara,Anna,02 9936 8555,26
+39,75,Signal Collectibles Ltd.,Taylor,Sue,4155554312,54
+40,65,"Oulu Toy Supplies, Inc.",Koskitalo,Pirkko,981-443655,5
+41,7,"Australian Gift Network, Co",Calaghan,Tony,61-7-3844-6555,26
+42,15,Boards & Toys Co.,Young,Leslie,3105552373,54
+43,86,"Toys of Finland, Co.",Karttunen,Matti,90-224 8555,5
+44,24,Corporate Gift Ideas Co.,Brown,Julie,6505551386,26
+45,51,"Men 'R' US Retailers, Ltd.",Chandler,Michael,2155554369,54
+46,41,Heintze Collectables,Ibsen,Palle,86 21 3555,5
+47,53,Mini Auto Werke,Mendel,Roland,7675-3555,26
+48,35,FunGiftIdeas.com,Benitez,Violeta,5085552555,54
+49,74,Scandinavian Gift Ideas,Larsson,Maria,0695-34 6555,5
+50,67,Quebec Home Shopping Network,Fresnisre,Jean,(514) 555-8054,26
+51,36,Gift Depot Inc.,King,Julie,2035552570,54
+52,44,L'ordine Souveniers,Moroni,Maurizio,0522-556555,5
+53,16,CAF Imports,Fernandez,Jesus,+34 913 728 555,26
+54,27,Daedalus Designs Imports,Rance,Martine,20.16.1555,54
+55,42,Herkku Gifts,Oeztan,Veysel,+47 2267 3215,5
+56,19,"Classic Gift Ideas, Inc",Cervantes,Francisca,2155554695,26
+57,43,"Iberia Gift Imports, Corp.",Roel,Jose Pedro,(95) 555 82 82,54
+58,31,"Double Decker Gift Stores, Ltd",Hardy,Thomas,(171) 555-7555,5
+59,85,"Toms Spezialitten, Ltd",Pfalzheim,Henriette,0221-5554327,26
+60,5,"Australian Collectables, Ltd",Connery,Sean,61-9-3844-6555,54
+61,73,"Saveley & Henriot, Co.",Saveley,Mary,78.32.5555,5
+62,55,Mini Classics,Frick,Steve,9145554562,26
+63,80,Super Scale Inc.,Murphy,Leslie,2035559545,54
+64,92,West Coast Collectables Co.,Thompson,Steve,3105553722,5
+65,18,Canadian Gift Exchange Network,Tannamuri,Yoshi,(604) 555-3392,26
+66,30,Diecast Collectables,Franco,Valarie,6175552555,54
+67,64,Osaka Souveniers Co.,Kentary,Mory,+81 06 6342 5555,5
+68,9,Auto Canal Petit,Perrier,Dominique,(1) 47.55.6555,26
+69,8,Auto Assoc. & Cie.,Tonini,Daniel,30.59.8555,54
+70,40,Handji Gifts& Co,Victorino,Wendy,+65 224 1555,5
+71,21,"Clover Collections, Co.",Cassidy,Dean,+353 1862 1555,26
+72,66,Petit Auto,Dewey,Catherine,(02) 5554 67,54
+73,22,Collectable Mini Designs Co.,Thompson,Valarie,7605558146,6
+74,89,"Vida Sport, Ltd",Holz,Michael,0897-034555,6
+75,17,Cambridge Collectables Co.,Tseng,Kyung,6175555555,6
+76,39,giftsbymail.co.uk,Bennett,Helen,(198) 555-8888,6
+77,82,Tekni Collectables Inc.,Brown,William,2015559350,6
+78,70,"Royal Canadian Collectables, Ltd.",Lincoln,Elizabeth,(604) 555-4555,6
+79,54,Mini Caravy,Citeaux,Frederique,88.60.1555,6
+80,52,Microscale Inc.,Kuo,Kee,2125551957,6
+81,83,The Sharp Gifts Warehouse,Frick,Sue,4085553659,6
+82,88,"UK Collectables, Ltd.",Devon,Elizabeth,(171) 555-2282,6
+83,84,"Tokyo Collectables, Ltd",Shimamura,Akiko,+81 3 3584 0555,6
+84,38,Gifts4AllAges.com,Yoshido,Juri,6175559555,6
+85,29,Diecast Classics Inc.,Yu,Kyung,2155551555,6
+86,46,La Rochelle Gifts,Labrune,Janine,40.67.8555,6
+87,63,Online Mini Collectables,Barajas,Miguel,6175557555,6
+88,2,Amica Models & Co.,Accorti,Paolo,011-4988555,7
+89,61,"Norway Gifts By Mail, Co.",Klaeboe,Jan,+47 2212 1555,7
+90,50,Marta's Replicas Co.,Hernandez,Marta,6175558555,7
+91,13,"Bavarian Collectables Imports, Co.",Donnermeyer,Michael,+49 89 61 08 9555,7
+92,86,"Toys of Finland, Co.",Tonini,Daniel,30.59.8555,7
